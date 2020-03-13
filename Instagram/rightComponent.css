@@ -1,0 +1,12 @@
+.rightComponent{
+    display:flex;
+    align-items: center;
+}
+.rightComponent .info{
+    
+}
+.avt{
+    border-radius: 50%;
+    height: 30px;
+
+}

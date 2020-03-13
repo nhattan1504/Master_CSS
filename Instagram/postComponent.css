@@ -1,0 +1,17 @@
+.postContainer{
+    display: flex;
+    flex-direction: column;
+    width: 616px;
+    height: 1050px;
+}
+.avt{
+    font-size: 30px;
+}
+.avt .avt-radius{
+    border-radius: 50% ;
+    height: 30px;
+}
+.post .postImg{
+    height: 616px;
+    width: 616px;
+}
